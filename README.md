@@ -5,7 +5,7 @@ I needed to install Oracle instant client 21 and cx_Oracle on several machines, 
 How to run it:
 
 1. Clone the repository.
-2. Make the script executable: `sudo chmod +x install-Oracle-instantclient.sh`.
-3. Run the script with superuser privileges: `sudo ./install-Oracle-instantclient.sh`.
+2. Make the script executable: `sudo chmod +x install-Oracle.sh`.
+3. Run the script with superuser privileges: `sudo ./install-Oracle.sh.
 
 Feel free to edit the script as you wish :)
