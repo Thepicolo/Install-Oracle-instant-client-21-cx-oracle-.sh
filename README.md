@@ -6,6 +6,6 @@ How to run it:
 
 1. Clone the repository.
 2. Make the script executable: `sudo chmod +x install-Oracle.sh`.
-3. Run the script with superuser privileges: `sudo ./install-Oracle.sh.
+3. Run the script with superuser privileges: `sudo ./install-Oracle.sh`.
 
 Feel free to edit the script as you wish :)
